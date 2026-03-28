@@ -1,2 +1,2 @@
-# aws-clp-notes-test
-aws cloud test and notes
+# aws-cloud-practitioner-notes-and-test
+# aws-cloud-practitioner-notes-and-test
